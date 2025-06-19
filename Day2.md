@@ -14,8 +14,9 @@ relaunched SQS, EC2, S3
 launched in europe
 
 # AWS GLOBAL INFRASTRUCTURE
-1. availability zone
-2. AWS region
-3. AWS edge locations
-4. AWS regional edge cases
+1. availability zone - physical data centers, database resources
+2. AWS region - consists of multiple AZs linked togeter
+3. AWS edge locations - located in major cities
+4. AWS regional edge cases - enhancement of aws content deliver network
 
+105 availibility zones with 33 geographic regions
